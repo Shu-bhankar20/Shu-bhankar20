@@ -1,31 +1,42 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shubhankar 👋
 
-**[Your Role / Headline, e.g. Full-Stack Developer | Student | Data Enthusiast]**
+**B.Tech Student | Aspiring Developer**
 
-📍 Based in [City, Country]
-🌐 Languages: [English, Hindi, ...]
+📍 Based in Noida, India
+🌐 Languages: English, Hindi
 
 ---
 
 ## 👤 About Me
 
-- 🔭 I'm currently working on **[project or company]**
-- 🌱 I'm currently learning **[technology / skill]**
-- 👯 I'm looking to collaborate on **[type of projects]**
-- 💬 Ask me about **[topics you know well]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🎓 I'm a B.Tech student passionate about programming and problem solving
+- 🌱 Always learning and building new things
+- 👯 Open to collaborating on interesting projects
+- 💬 Ask me about C, C++, Python, and Java
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · [add more]
-**Frameworks & Libraries:** React · Node.js · [add more]
-**Databases:** MySQL · MongoDB · [add more]
-**Tools:** Git · Docker · VS Code · [add more]
+**Languages:** C · C++ · Python · Java
+**Tools:** Git · GitHub · VS Code
 
-## 📌 Featured Projects
+## 📌 Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description |
+|---------|-------------|
+| [Shu-bhankar20](https://github.com/Shu-bhankar20/Shu-bhankar20) | My GitHub profile repository |
+
+## 📊 GitHub Stats
+
+![Shubhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shu-bhankar20&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shu-bhankar20&layout=compact)
+
+## 📫 Connect With Me
+
+- 🐙 GitHub: [@Shu-bhankar20](https://github.com/Shu-bhankar20)
+
+---
+
+⭐ Thanks for stopping by! Feel free to explore my repositories.
 | [Project 1](https://github.com/your-username/project-1) | Short description | Python, Flask |
 | [Project 2](https://github.com/your-username/project-2) | Short description | React, Node.js |
 | [Project 3](https://github.com/your-username/project-3) | Short description | [Tech] |
